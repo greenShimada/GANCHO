@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TargetConfig Name="C:\Users\mathe\Desktop\GANCHO\gancho.exe" LastUsed="2026-03-22T20:31:00.2609639Z">
+  <EngineConfig />
+  <EngineOptions>
+    <Property name="DebugChildProcesses" value="false" />
+  </EngineOptions>
+  <TargetOptions>
+    <Option name="LaunchProcess">
+      <Property name="Executable" value="C:\Users\mathe\Desktop\GANCHO\gancho.exe" />
+      <Property name="Arguments" value="" />
+    </Option>
+  </TargetOptions>
+</TargetConfig>
